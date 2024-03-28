@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samar Raj</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 
-<p align="left"> <a href="https://twitter.com/samarra16214881" target="blank"><img src="https://img.shields.io/twitter/follow/samarra16214881?logo=twitter&style=for-the-badge" alt="samarra16214881" /></a> </p>
-
 - 📫 How to reach me **samarrajsinha246@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
